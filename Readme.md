@@ -162,8 +162,6 @@ USB을 윈도우의 암호 대신 사용하는 화면 잠금 프로그램. C#으
 
 ### `2016-06-09` [ChatBot](https://github.com/phillyai/ChatBot)
 
-> 프로그래밍 컨퍼런스 `나는 프로그래머다` 에서 발표.
-
 ![chat](/imgs/chat.png)
 
 간단한 챗봇. 한나눔 라이브러리와 [CBR 알고리즘에 관한 문서](http://courses.ischool.berkeley.edu/i256/f06/projects/bonniejc.pdf) 를 보고 C#으로 개발.
